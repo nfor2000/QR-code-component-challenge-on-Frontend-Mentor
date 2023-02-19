@@ -35,8 +35,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Imported font-style(Outfit) from google fonts
 
 ## Author
-
-- Website - [Nfor Presly Takop](https://www.your-site.com)
 - Frontend Mentor - [@nfor2000](https://www.frontendmentor.io/profile/nfor2000)
 - Twitter - [@PreslyNfor](https://www.twitter.com/PreslyNfor)
 
