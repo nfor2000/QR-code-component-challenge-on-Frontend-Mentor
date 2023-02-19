@@ -18,7 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 ![](images/FireShot Capture 002 - Frontend Mentor - QR code component - .png)
 ![](images/FireShot Capture 001 - Frontend Mentor - QR code component - .png)
-
+###  Link
+- [live link]( https://nfor2000.github.io/QR-code-component-challenge-on-Frontend-Mentor/)
 ### Built with
 
 - Semantic HTML5 markup
