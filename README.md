@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-- ![Screenshot1-mobileview!](images/FireShot Capture 002 - Frontend Mentor - QR code component - .png)
-- ![Screenshot2-desktopview!](images/FireShot Capture 001 - Frontend Mentor - QR code component - .png)
+- ![Screenshot1-mobileview!](FireShot Capture 002 - Frontend Mentor - QR code component - .png)
+- ![Screenshot2-desktopview!](FireShot Capture 001 - Frontend Mentor - QR code component - .png)
 ###  Link
 - [live link]( https://nfor2000.github.io/QR-code-component-challenge-on-Frontend-Mentor/)
 ### Built with
